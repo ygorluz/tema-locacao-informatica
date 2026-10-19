@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Notebooks e desktops",
+    "slug": "notebooks-e-desktops"
+  },
+  {
+    "name": "Workstations e servidores",
+    "slug": "workstations-e-servidores"
+  },
+  {
+    "name": "TI para eventos",
+    "slug": "ti-para-eventos"
+  },
+  {
+    "name": "Gestão de TI",
+    "slug": "gestao-de-ti"
+  },
+  {
+    "name": "Dicas para empresas",
+    "slug": "dicas-para-empresas"
+  }
+]

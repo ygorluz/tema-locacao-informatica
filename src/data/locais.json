@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "itaim-bibi",
+    "nome": "Itaim Bibi",
+    "prep": "no",
+    "regiao": "Zona Oeste de São Paulo",
+    "bairrosVizinhos": [
+      "Vila Olímpia",
+      "Pinheiros",
+      "Jardim Paulistano"
+    ],
+    "referenciaLocal": "Atendemos todo o Itaim Bibi, dos escritórios da Av. Brigadeiro Faria Lima às empresas da Av. Juscelino Kubitschek, com entrega e instalação ágil nos prédios comerciais da região.",
+    "faq": [
+      {
+        "q": "Vocês entregam os equipamentos no escritório no Itaim Bibi?",
+        "a": "Sim. Entregamos e instalamos no seu endereço no Itaim Bibi, deixando as máquinas configuradas e prontas para uso no mesmo dia combinado."
+      },
+      {
+        "q": "Atendem reforço urgente de equipe no Itaim?",
+        "a": "Atendemos. Para reforço rápido de notebooks ou desktops no Itaim Bibi, priorizamos a entrega conforme a disponibilidade de estoque."
+      }
+    ]
+  },
+  {
+    "slug": "vila-olimpia",
+    "nome": "Vila Olímpia",
+    "prep": "na",
+    "regiao": "Zona Oeste de São Paulo",
+    "bairrosVizinhos": [
+      "Itaim Bibi",
+      "Brooklin",
+      "Moema"
+    ],
+    "referenciaLocal": "Atendemos a Vila Olímpia, dos edifícios corporativos às startups e agências da região, com locação flexível para equipes que crescem rápido.",
+    "faq": [
+      {
+        "q": "Fazem contrato mensal para startups na Vila Olímpia?",
+        "a": "Fazemos. Na Vila Olímpia trabalhamos com contratos mensais que acompanham o crescimento da equipe, sem exigir compromisso longo de início."
+      },
+      {
+        "q": "Conseguem equipar uma sala de reunião com monitores?",
+        "a": "Sim. Alugamos monitores e telas grandes para salas de reunião e treinamento na Vila Olímpia, com entrega e cabos inclusos."
+      }
+    ]
+  },
+  {
+    "slug": "avenida-paulista",
+    "nome": "Avenida Paulista",
+    "prep": "na",
+    "regiao": "região central de São Paulo",
+    "bairrosVizinhos": [
+      "Bela Vista",
+      "Jardins",
+      "Consolação"
+    ],
+    "referenciaLocal": "Atendemos toda a região da Avenida Paulista e ruas próximas, dos escritórios e coworkings aos hotéis e centros de evento que recebem treinamentos e congressos.",
+    "faq": [
+      {
+        "q": "Alugam computadores para evento em hotel na Paulista?",
+        "a": "Alugamos. Levamos os equipamentos, montamos e recolhemos no hotel ou centro de evento da Avenida Paulista, dentro do horário da produção."
+      },
+      {
+        "q": "Atendem coworkings da região?",
+        "a": "Sim. Atendemos coworkings e escritórios compartilhados da Avenida Paulista com locação avulsa ou em lote, conforme o número de postos."
+      }
+    ]
+  },
+  {
+    "slug": "brooklin",
+    "nome": "Brooklin",
+    "prep": "no",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": [
+      "Vila Olímpia",
+      "Campo Belo",
+      "Santo Amaro"
+    ],
+    "referenciaLocal": "Atendemos o Brooklin e a região da Av. Eng. Luís Carlos Berrini, polo de empresas de tecnologia e serviços, com locação corporativa e suporte ao parque de TI.",
+    "faq": [
+      {
+        "q": "Fazem locação corporativa de longo prazo no Brooklin?",
+        "a": "Fazemos. No Brooklin atendemos empresas com contratos corporativos de longo prazo, com renovação de equipamento e gestão de ativos inclusas."
+      },
+      {
+        "q": "Conseguem padronizar o parque de várias filiais?",
+        "a": "Sim. Padronizamos a configuração das máquinas para empresas com sede no Brooklin e filiais em outras regiões, facilitando o suporte."
+      }
+    ]
+  },
+  {
+    "slug": "pinheiros",
+    "nome": "Pinheiros",
+    "prep": "em",
+    "regiao": "Zona Oeste de São Paulo",
+    "bairrosVizinhos": [
+      "Itaim Bibi",
+      "Vila Madalena",
+      "Faria Lima"
+    ],
+    "referenciaLocal": "Atendemos Pinheiros e a Faria Lima, dos escritórios de tecnologia às agências e produtoras, com locação de workstations e notebooks para projetos criativos.",
+    "faq": [
+      {
+        "q": "Alugam workstation para edição e render em Pinheiros?",
+        "a": "Alugamos. Em Pinheiros atendemos produtoras e estúdios com workstations de alto desempenho para edição de vídeo, render e 3D, por projeto."
+      },
+      {
+        "q": "Atendem projeto temporário com prazo curto?",
+        "a": "Sim. Para projetos de prazo curto em Pinheiros, fazemos locação pelo período exato, da semana ao mês, com devolução ao fim do projeto."
+      }
+    ]
+  }
+]

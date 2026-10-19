@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "title": "Aluguel de computadores para empresas em São Paulo",
+    "desc": "Somos uma locadora de equipamentos de TI com estoque próprio e equipe de suporte, atendendo empresas, projetos e eventos em São Paulo. Trabalhamos com notebooks, desktops, workstations, monitores, servidores e tablets, sempre com configuração sob a necessidade do cliente, entrega ágil e contratos do curto prazo ao corporativo.",
+    "image": ""
+  },
+  "content": {
+    "missionTitle": "Nosso compromisso",
+    "missionText": "Acreditamos que TI não precisa virar imobilizado. Por isso entregamos equipamento atual, configurado e pronto para uso, com manutenção e troca dentro do contrato, para a empresa focar no que é o negócio dela.\n\nDimensionamos cada locação pela rotina real de uso, sem empurrar a máquina mais cara, e mantemos o parque sempre renovado a cada ciclo.",
+    "teamTitle": "Quem cuida do seu parque",
+    "teamText": "Por trás de cada contrato existe uma equipe que configura, testa e dá suporte aos equipamentos. É esse cuidado que garante a máquina funcionando no primeiro dia e a reposição rápida quando algo falha."
+  },
+  "seo": {
+    "title": "",
+    "description": "",
+    "image": ""
+  }
+}

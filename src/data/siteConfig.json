@@ -1,0 +1,25 @@
+{
+  "name": "LocaTech SP",
+  "segmento": "Aluguel de computadores",
+  "schemaType": "LocalBusiness",
+  "postUrlPrefix": "",
+  "description": "Aluguel de computadores em São Paulo: notebooks, desktops, workstations, monitores e servidores para empresas, projetos e eventos. Suporte, troca e entrega inclusos. Peça seu orçamento.",
+  "ctaLabel": "Solicitar orçamento",
+  "phone": "(11) 0000-0000",
+  "whatsapp": "5511000000000",
+  "email": "contato@locatechsp.com.br",
+  "address": "Itaim Bibi — São Paulo, SP",
+  "hours": "Seg a Sex, 8h às 18h • Sáb, 9h às 13h",
+  "social": { "instagram": "#", "facebook": "#", "youtube": "#" },
+  "nap": {
+    "streetAddress": "Av. Brigadeiro Faria Lima, 0000 — conj. 00",
+    "addressLocality": "São Paulo",
+    "addressRegion": "SP",
+    "postalCode": "04538-000",
+    "country": "BR",
+    "latitude": -23.5853,
+    "longitude": -46.6764,
+    "priceRange": "$$",
+    "mapEmbed": "https://www.google.com/maps?q=Itaim+Bibi+S%C3%A3o+Paulo+SP&output=embed"
+  }
+}

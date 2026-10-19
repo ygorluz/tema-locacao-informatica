@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Sobre a LocaTech SP",
+    "description": "Mais de 10 anos alugando computadores para empresas em São Paulo: notebooks, desktops, workstations e servidores com suporte e renovação. Conheça a LocaTech SP."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Sobre a empresa",
+      "title": "Aluguel de TI com quem entende de operação.",
+      "lead": "Mais de uma década equipando empresas, projetos e eventos em São Paulo.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Sobre", "href": "/sobre" } ]
+    }},
+    { "type": "sobre", "props": {
+      "image": "/images/about.jpg",
+      "badge": "10+ anos de experiência",
+      "title": "Aluguel de TI com quem entende de operação.",
+      "lead": "Atendemos do reforço pontual de notebooks ao contrato corporativo de longo prazo, sempre com configuração sob medida e suporte incluso.",
+      "benefits": [
+        "Estoque próprio e máquinas sempre atuais",
+        "Notebooks, desktops, workstations e servidores",
+        "Configuração pela rotina real de uso",
+        "Suporte e troca dentro do contrato"
+      ],
+      "cta": { "label": "Solicitar orçamento", "href": "#contato" }
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "10+", "label": "Anos no mercado" },
+        { "value": "5mil+", "label": "Equipamentos em estoque" },
+        { "value": "24h", "label": "Prazo médio de entrega" },
+        { "value": "98%", "label": "Clientes que renovam" }
+      ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três etapas do orçamento à entrega.",
+      "steps": [
+        { "n": "01", "title": "Orçamento", "text": "Conte a quantidade, o uso e o prazo pelo formulário ou WhatsApp." },
+        { "n": "02", "title": "Configuração", "text": "Indicamos a máquina certa e preparamos os equipamentos." },
+        { "n": "03", "title": "Entrega", "text": "Levamos tudo configurado e pronto para usar." }
+      ]
+    }},
+    { "type": "depoimentos", "props": {
+      "eyebrow": "Depoimentos",
+      "title": "O que nossos clientes dizem.",
+      "rating": { "score": "4,9", "label": "média de satisfação" },
+      "items": [
+        { "quote": "Reforçamos a equipe com notebooks configurados em dois dias. Recomendo.", "name": "Roberto L.", "role": "Cliente — Itaim Bibi" },
+        { "quote": "Equiparam a sala de treinamento e recolheram no fim do evento. Perfeito.", "name": "Mariana D.", "role": "Cliente — Avenida Paulista" },
+        { "quote": "Contrato corporativo resolveu nosso parque. Suporte sempre rápido.", "name": "Thomas L.", "role": "Cliente — Brooklin" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Solicite seu orçamento sem compromisso.",
+      "services": ["Aluguel de notebooks", "Aluguel de desktops", "Aluguel de workstations", "Aluguel de monitores", "Aluguel de servidores", "Aluguel de impressoras", "Computadores para eventos", "Aluguel de tablets", "Aluguel corporativo (DaaS)"]
+    }}
+  ]
+}

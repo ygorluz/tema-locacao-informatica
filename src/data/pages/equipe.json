@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Nossa equipe — LocaTech SP",
+    "description": "Time de comercial, configuração, logística e suporte que cuida do aluguel do seu parque de TI em São Paulo. Conheça a equipe da LocaTech SP."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossa equipe",
+      "title": "Um time que cuida do seu parque de TI.",
+      "lead": "Profissionais de comercial, configuração, logística e suporte para cada etapa do contrato.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Equipe", "href": "/equipe" } ]
+    }},
+    { "type": "equipe", "props": {
+      "members": [
+        { "name": "Carlos Mendes", "role": "Comercial e orçamento", "photo": "/images/team-1.jpg" },
+        { "name": "Rafael Souza", "role": "Configuração de equipamentos", "photo": "/images/team-2.jpg" },
+        { "name": "Lucas Ferreira", "role": "Logística e entrega", "photo": "/images/team-3.jpg" },
+        { "name": "André Lima", "role": "Suporte técnico", "photo": "/images/team-4.jpg" }
+      ]
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "10+", "label": "Anos no mercado" },
+        { "value": "5mil+", "label": "Equipamentos em estoque" },
+        { "value": "24h", "label": "Prazo médio de entrega" },
+        { "value": "98%", "label": "Clientes que renovam" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Solicite seu orçamento sem compromisso.",
+      "services": ["Aluguel de notebooks", "Aluguel de desktops", "Aluguel de workstations", "Aluguel de monitores", "Aluguel de servidores", "Aluguel de impressoras", "Computadores para eventos", "Aluguel de tablets", "Aluguel corporativo (DaaS)"]
+    }}
+  ]
+}

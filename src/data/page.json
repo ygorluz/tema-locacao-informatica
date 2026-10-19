@@ -1,0 +1,276 @@
+{
+  "blocks": [
+    {
+      "type": "hero",
+      "props": {
+        "eyebrow": "Aluguel de computadores em São Paulo",
+        "title": "Equipamento de TI sob demanda, sem imobilizar capital.",
+        "lead": "Notebooks, desktops, workstations, monitores e servidores para empresas, projetos e eventos. Entrega, suporte e troca inclusos.",
+        "cta": {
+          "label": "Solicitar orçamento",
+          "href": "#contato"
+        },
+        "rating": {
+          "score": "5,0",
+          "count": "230+ avaliações"
+        },
+        "doctor": {
+          "name": "Equipe de suporte própria",
+          "role": "Configuração e entrega",
+          "photo": "/images/doctor.jpg"
+        },
+        "contact": {
+          "phone": "(11) 0000-0000",
+          "hours": "Seg a Sex, 8h às 18h • Sáb até 13h"
+        }
+      }
+    },
+    {
+      "type": "sobre",
+      "props": {
+        "image": "/images/about.jpg",
+        "badge": "+10 anos equipando empresas em São Paulo",
+        "eyebrow": "Sobre a locadora",
+        "title": "TI como serviço, do projeto curto ao contrato corporativo.",
+        "lead": "Cuidamos de cada etapa: dimensionamento da máquina, configuração, entrega e suporte durante todo o contrato, sem você comprar equipamento que envelhece.",
+        "benefits": [
+          "Estoque próprio e configuração sob a sua rotina",
+          "Notebooks, desktops, workstations e servidores",
+          "Troca imediata em caso de defeito",
+          "Contratos do avulso ao corporativo de longo prazo"
+        ],
+        "cta": {
+          "label": "Conheça a locadora",
+          "href": "/sobre"
+        }
+      }
+    },
+    {
+      "type": "servicos",
+      "props": {
+        "eyebrow": "Nossos serviços",
+        "title": "Aluguel de equipamento de TI para cada necessidade.",
+        "items": [
+          {
+            "title": "Aluguel de notebooks",
+            "text": "Notebooks corporativos para equipe, home office e projeto temporário."
+          },
+          {
+            "title": "Aluguel de desktops",
+            "text": "Estações fixas padronizadas para escritório e call center."
+          },
+          {
+            "title": "Aluguel de workstations",
+            "text": "Alto desempenho para render, edição de vídeo e engenharia."
+          },
+          {
+            "title": "Computadores para eventos",
+            "text": "Máquinas para feiras, treinamentos e provas, montadas no local."
+          }
+        ],
+        "cta": {
+          "label": "Ver todos os serviços",
+          "href": "/servicos"
+        }
+      }
+    },
+    {
+      "type": "numeros",
+      "props": {
+        "stats": [
+          {
+            "value": "10+",
+            "label": "Anos equipando empresas"
+          },
+          {
+            "value": "5mil+",
+            "label": "Equipamentos em estoque"
+          },
+          {
+            "value": "24h",
+            "label": "Prazo médio de entrega"
+          },
+          {
+            "value": "98%",
+            "label": "Clientes que renovam"
+          }
+        ]
+      }
+    },
+    {
+      "type": "porqueEscolher",
+      "props": {
+        "eyebrow": "Por que nos escolher",
+        "title": "Alugar TI sai mais barato e nunca fica obsoleto.",
+        "image": "/images/why.jpg",
+        "features": [
+          {
+            "title": "Configuração sob medida",
+            "text": "A máquina certa para a rotina real de uso."
+          },
+          {
+            "title": "Equipamento sempre atual",
+            "text": "Renovação programada a cada ciclo do contrato."
+          },
+          {
+            "title": "Orçamento transparente",
+            "text": "Valor fechado por máquina e por período."
+          },
+          {
+            "title": "Troca imediata",
+            "text": "Defeito é resolvido sem deixar ninguém parado."
+          },
+          {
+            "title": "Suporte incluído",
+            "text": "Manutenção e atendimento dentro do contrato."
+          },
+          {
+            "title": "Entrega ágil",
+            "text": "Máquinas configuradas e prontas no endereço."
+          }
+        ]
+      }
+    },
+    {
+      "type": "comoFunciona",
+      "props": {
+        "eyebrow": "Como funciona",
+        "title": "Três passos do orçamento à entrega.",
+        "steps": [
+          {
+            "n": "01",
+            "title": "Orçamento",
+            "text": "Conte a quantidade, o perfil de uso e o prazo pelo WhatsApp."
+          },
+          {
+            "n": "02",
+            "title": "Configuração",
+            "text": "Indicamos a máquina certa e preparamos os equipamentos."
+          },
+          {
+            "n": "03",
+            "title": "Entrega",
+            "text": "Levamos tudo configurado e pronto para usar no primeiro dia."
+          }
+        ]
+      }
+    },
+    {
+      "type": "equipe",
+      "props": {
+        "eyebrow": "Nossa equipe",
+        "title": "Um time que cuida do seu parque de TI.",
+        "members": [
+          {
+            "name": "Atendimento comercial",
+            "role": "Orçamento e dimensionamento",
+            "photo": "/images/team-1.jpg"
+          },
+          {
+            "name": "Configuração",
+            "role": "Preparo das máquinas",
+            "photo": "/images/team-2.jpg"
+          },
+          {
+            "name": "Logística",
+            "role": "Entrega e instalação",
+            "photo": "/images/team-3.jpg"
+          },
+          {
+            "name": "Suporte técnico",
+            "role": "Manutenção e troca",
+            "photo": "/images/team-4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "depoimentos",
+      "props": {
+        "eyebrow": "Depoimentos",
+        "title": "O que nossos clientes dizem.",
+        "rating": {
+          "score": "4,9",
+          "label": "média de avaliações"
+        },
+        "items": [
+          {
+            "quote": "Reforçamos a equipe com 20 notebooks em dois dias. Tudo configurado.",
+            "name": "Roberto L.",
+            "role": "Itaim Bibi"
+          },
+          {
+            "quote": "Equiparam a sala de treinamento do evento e recolheram no fim. Perfeito.",
+            "name": "Mariana D.",
+            "role": "Avenida Paulista"
+          },
+          {
+            "quote": "Contrato corporativo resolveu nosso parque. Suporte sempre rápido.",
+            "name": "Thiago L.",
+            "role": "Brooklin"
+          }
+        ]
+      }
+    },
+    {
+      "type": "antesDepois",
+      "props": {
+        "eyebrow": "Resultados",
+        "title": "Posto de trabalho montado em horas.",
+        "items": [
+          {
+            "label": "Estação completa",
+            "before": "/images/before-1.jpg",
+            "after": "/images/after-1.jpg"
+          },
+          {
+            "label": "Sala de treinamento",
+            "before": "/images/before-2.jpg",
+            "after": "/images/after-2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "novidades",
+      "props": {
+        "eyebrow": "Novidades",
+        "title": "Conteúdo sobre aluguel de TI.",
+        "items": [
+          {
+            "title": "Alugar ou comprar computadores: o que vale mais",
+            "excerpt": "Quando o aluguel sai na frente da compra para a empresa.",
+            "image": "/images/post-1.jpg",
+            "href": "#"
+          },
+          {
+            "title": "Como dimensionar o notebook certo para cada função",
+            "excerpt": "Escolher a configuração pelo uso real, não pela ficha técnica.",
+            "image": "/images/post-2.jpg",
+            "href": "#"
+          },
+          {
+            "title": "TI para eventos: como planejar a estrutura",
+            "excerpt": "O que considerar para equipar feiras e treinamentos.",
+            "image": "/images/post-3.jpg",
+            "href": "#"
+          }
+        ]
+      }
+    },
+    {
+      "type": "ctaContato",
+      "props": {
+        "eyebrow": "Fale com a gente",
+        "title": "Solicite seu orçamento de aluguel sem compromisso.",
+        "services": [
+          "Aluguel de notebooks",
+          "Aluguel de desktops",
+          "Aluguel de workstations",
+          "Computadores para eventos",
+          "Aluguel corporativo (DaaS)"
+        ]
+      }
+    }
+  ]
+}

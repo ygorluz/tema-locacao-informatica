@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Contato — LocaTech SP",
+    "description": "Fale com a LocaTech SP: WhatsApp, e-mail e endereço em São Paulo. Tire dúvidas ou solicite orçamento de aluguel de computadores."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Estamos prontos para atender sua empresa.",
+      "lead": "Mande mensagem, ligue ou fale com nosso comercial — orçamento rápido e sem compromisso.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Contato", "href": "/contato" } ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Envie uma mensagem",
+      "title": "Conte o que sua empresa precisa.",
+      "services": ["Aluguel de notebooks", "Aluguel de desktops", "Aluguel de workstations", "Aluguel de monitores", "Aluguel de servidores", "Aluguel de impressoras", "Computadores para eventos", "Aluguel de tablets", "Aluguel corporativo (DaaS)"]
+    }}
+  ]
+}

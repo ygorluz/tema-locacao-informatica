@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "title": "Serviços de aluguel de computadores — LocaTech SP",
+    "description": "Aluguel de notebooks, desktops, workstations, monitores, servidores, impressoras, tablets e computadores para eventos em São Paulo. Conheça todos os serviços da LocaTech SP."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossos serviços",
+      "title": "Aluguel de equipamento de TI para cada necessidade.",
+      "lead": "Do notebook do home office à workstation de render, do servidor ao computador para evento — configurado e entregue pronto.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Serviços", "href": "/servicos" } ]
+    }},
+    { "type": "servicos", "props": {
+      "fromData": true,
+      "cta": { "label": "Solicitar orçamento", "href": "/agendar" }
+    }},
+    { "type": "porqueEscolher", "props": {
+      "eyebrow": "Por que nos escolher",
+      "title": "Equipamento certo, suporte incluso.",
+      "image": "/images/why.jpg",
+      "features": [
+        { "title": "Configuração sob medida", "text": "A máquina certa para cada função." },
+        { "title": "Estoque próprio", "text": "Disponibilidade para reforço rápido de equipe." },
+        { "title": "Orçamento sem compromisso", "text": "Valor fechado por máquina e período." },
+        { "title": "Entrega ágil", "text": "Equipamentos prontos no seu endereço." },
+        { "title": "Clientes que renovam", "text": "Empresas que ficam contrato após contrato." },
+        { "title": "Equipamento atual", "text": "Renovação programada a cada ciclo." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Solicite seu orçamento sem compromisso.",
+      "services": ["Aluguel de notebooks", "Aluguel de desktops", "Aluguel de workstations", "Aluguel de monitores", "Aluguel de servidores", "Aluguel de impressoras", "Computadores para eventos", "Aluguel de tablets", "Aluguel corporativo (DaaS)"]
+    }}
+  ]
+}

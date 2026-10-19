@@ -1,0 +1,290 @@
+[
+  {
+    "slug": "aluguel-de-notebooks",
+    "nome": "Aluguel de notebooks",
+    "resumo": "Notebooks corporativos sob demanda, do home office ao projeto temporário, com suporte e troca incluída.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Para que serve o aluguel de notebooks",
+        "conteudo": "Alugar notebooks resolve a necessidade de máquina sem imobilizar capital na compra de equipamento que envelhece rápido.\n\nÉ a saída natural para reforço de equipe, contratação temporária, home office e projetos com prazo definido, em que comprar não faz sentido financeiro.\n\nA empresa paga pelo uso, devolve quando acabar e troca o parque por modelos mais novos a cada ciclo."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Configurações disponíveis",
+        "conteudo": "Trabalhamos do notebook básico para tarefas de escritório ao modelo com processador de última geração, SSD e mais memória para quem roda sistemas pesados.\n\n- Linha office: e-mail, planilha, navegador e ERP\n- Linha intermediária: multitarefa e videochamada\n- Linha avançada: desenvolvimento, edição e CAD leve\n\nA configuração é definida pela rotina real do usuário, não pela ficha técnica mais cara."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Prazos e quantidade",
+        "conteudo": "Atendemos de uma unidade avulsa a lotes para a empresa inteira, por diária, mensal ou contrato anual.\n\nQuanto maior o volume e o prazo, menor o valor por máquina, e o contrato longo já entra com renovação de equipamento programada."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Suporte e reposição",
+        "conteudo": "Todo notebook sai configurado, com sistema atualizado e pronto para uso no primeiro dia.\n\nSe um equipamento apresentar defeito, fazemos a troca para o cliente não ficar parado, sem custo extra dentro do contrato."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Como solicitar",
+        "conteudo": "Você nos passa a quantidade, o perfil de uso e o prazo, e devolvemos uma proposta com a configuração indicada e o valor fechado.\n\nApós a aprovação, entregamos os equipamentos configurados no endereço combinado, prontos para distribuir à equipe."
+      }
+    ]
+  },
+  {
+    "slug": "aluguel-de-desktops",
+    "nome": "Aluguel de desktops",
+    "resumo": "Computadores de mesa para escritório, call center e operação fixa, padronizados e com manutenção inclusa.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Quando o desktop é a melhor escolha",
+        "conteudo": "Para posto de trabalho fixo, o desktop entrega mais desempenho por real investido do que o notebook e é mais fácil de manter.\n\nÉ a opção certa para call center, recepção, balcão, laboratório e qualquer estação que não precisa de mobilidade."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Padronização do parque",
+        "conteudo": "Entregamos todas as máquinas com a mesma configuração e a mesma imagem de sistema, o que simplifica o suporte do seu TI.\n\nQuando os computadores são iguais, qualquer técnico resolve qualquer estação, e a reposição de peça é imediata."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Composição da estação",
+        "conteudo": "O aluguel pode incluir gabinete, monitor, teclado e mouse, formando a estação completa, ou só a CPU quando o cliente já tem periféricos.\n\n- Estação completa: pronta para ligar\n- Só CPU: aproveita monitor e periféricos existentes\n- Com monitor duplo: para quem trabalha com várias telas"
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Manutenção incluída",
+        "conteudo": "A manutenção corretiva está dentro do contrato: deu problema, a gente conserta ou troca a máquina.\n\nIsso tira do seu time a tarefa de abrir chamado em assistência e correr atrás de peça avulsa."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Escala e custo",
+        "conteudo": "O valor por estação cai conforme o volume contratado e o prazo do contrato.\n\nPara operações com dezenas de postos, o aluguel transforma um gasto grande de uma vez em uma mensalidade previsível."
+      }
+    ]
+  },
+  {
+    "slug": "aluguel-de-workstations",
+    "nome": "Aluguel de workstations",
+    "resumo": "Estações de alto desempenho para engenharia, render, edição de vídeo e modelagem 3D, por projeto ou contrato.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "O que é uma workstation",
+        "conteudo": "Workstation é o computador feito para trabalho pesado: processador com muitos núcleos, placa de vídeo dedicada profissional e bastante memória.\n\nÉ o que aguenta render 3D, edição de vídeo em alta resolução, CAD, simulação de engenharia e ciência de dados sem travar."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Para quem alugar faz mais sentido",
+        "conteudo": "Workstation é cara e envelhece rápido, então alugar evita um investimento alto que estaria defasado em dois anos.\n\nFaz sentido para estúdio que pega demanda sazonal, escritório de projeto com pico de obra e empresa que precisa de força extra só durante um contrato."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Configuração sob a aplicação",
+        "conteudo": "A máquina é montada conforme o software que você usa, porque cada programa puxa o hardware de um jeito.\n\n- Render e 3D: foco em GPU profissional e muitos núcleos\n- Edição de vídeo: SSD rápido e bastante memória\n- Engenharia e CAD: placa certificada para o software"
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Aluguel por projeto",
+        "conteudo": "Você pode alugar só pelo período do projeto, da semana de finalização ao contrato de meses.\n\nQuando o projeto acaba, devolve a máquina e para de pagar, sem ficar com um equipamento caro parado na prateleira."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Entrega e teste",
+        "conteudo": "Entregamos a workstation já testada com a carga de trabalho que você descreveu, para confirmar que dá conta.\n\nSe a demanda crescer no meio do projeto, ajustamos a configuração ou adicionamos máquinas sem refazer todo o contrato."
+      }
+    ]
+  },
+  {
+    "slug": "aluguel-de-monitores",
+    "nome": "Aluguel de monitores",
+    "resumo": "Monitores Full HD, 4K e ultrawide para reforçar estações, montar salas ou equipar eventos, avulso ou em lote.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Monitor extra rende mais",
+        "conteudo": "Adicionar uma segunda tela aumenta a produtividade de quem trabalha com planilha, sistema e atendimento ao mesmo tempo.\n\nAlugar o monitor é a forma rápida de dar essa segunda tela à equipe sem comprar dezenas de aparelhos."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Tamanhos e resoluções",
+        "conteudo": "Temos do monitor de 21 a 24 polegadas para escritório até telas grandes 4K e ultrawide para quem edita ou opera várias janelas.\n\n- Full HD 24\": padrão de escritório\n- 27\" e 4K: design e leitura de detalhe\n- Ultrawide: substitui duas telas em uma"
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Usos comuns",
+        "conteudo": "O aluguel de monitores atende reforço de home office, montagem de sala de treinamento, estande de feira e painel de indicadores.\n\nPara evento, entregamos a quantidade pelo período e recolhemos depois, sem você ficar com tela sobrando."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Suportes e cabos",
+        "conteudo": "Junto com o monitor enviamos os cabos certos e, quando precisa, suporte de mesa, braço articulado ou pedestal.\n\nAssim a tela chega pronta para conectar, sem corrida de última hora atrás de adaptador."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Avulso ou em lote",
+        "conteudo": "Você aluga desde uma unidade para um colaborador até lotes para equipar um andar inteiro.\n\nO preço por tela melhora no volume, e o monitor pode entrar combinado com o aluguel dos computadores."
+      }
+    ]
+  },
+  {
+    "slug": "aluguel-de-servidores",
+    "nome": "Aluguel de servidores",
+    "resumo": "Servidores físicos para virtualização, armazenamento e aplicações internas, com dimensionamento e suporte.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Servidor sob demanda",
+        "conteudo": "Alugar servidor dá à empresa a capacidade de processamento e armazenamento que ela precisa sem o investimento alto da compra.\n\nÉ útil para subir um ambiente novo, atender um pico de demanda ou rodar um projeto com prazo, sem comprometer o orçamento de TI."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Para que costuma ser usado",
+        "conteudo": "O servidor alugado atende virtualização de máquinas, arquivo de arquivos, banco de dados, backup local e aplicações internas.\n\n- Virtualização: várias máquinas em um equipamento\n- Storage: arquivo central de arquivos\n- Aplicação: ERP, sistema próprio e banco de dados"
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Dimensionamento correto",
+        "conteudo": "Antes de fechar, levantamos a carga esperada para indicar processador, memória e disco no tamanho certo.\n\nServidor subdimensionado trava a operação e o superdimensionado é dinheiro parado, então o ajuste fino importa."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Instalação e suporte",
+        "conteudo": "Entregamos o servidor configurado e damos suporte ao hardware durante todo o contrato.\n\nSe houver falha de componente, fazemos a substituição para manter o ambiente no ar, dentro do prazo de atendimento combinado."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Prazo e renovação",
+        "conteudo": "O contrato pode ser curto, para um projeto, ou longo, com renovação de hardware programada.\n\nNo contrato longo, a empresa sempre opera com equipamento atual sem precisar revender o servidor antigo."
+      }
+    ]
+  },
+  {
+    "slug": "aluguel-de-impressoras",
+    "nome": "Aluguel de impressoras",
+    "resumo": "Outsourcing de impressão com franquia de páginas, reposição de suprimentos e manutenção inclusa.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Como funciona o outsourcing de impressão",
+        "conteudo": "No aluguel de impressoras você paga uma franquia de páginas por mês, e o toner, as peças e a manutenção já estão incluídos.\n\nAssim a empresa para de comprar cartucho avulso e de chamar técnico a cada problema, e passa a ter um custo de impressão previsível."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Tipos de equipamento",
+        "conteudo": "Trabalhamos da impressora de mesa para um setor até a multifuncional de alto volume para a empresa toda.\n\n- Laser mono: documento do dia a dia\n- Multifuncional: imprime, copia e digitaliza\n- Alto volume: setores com muita impressão"
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Suprimentos e manutenção",
+        "conteudo": "A reposição de toner é feita por nós antes de acabar, acompanhando o contador de páginas do equipamento.\n\nA manutenção preventiva e corretiva está no contrato, então a impressora parada é problema nosso, não seu."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Controle de custos",
+        "conteudo": "Cada equipamento reporta o volume impresso, o que permite saber quanto cada setor gasta com impressão.\n\nEsse controle ajuda a cortar desperdício e a dividir o custo entre departamentos com números reais."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Franquia certa para o volume",
+        "conteudo": "A franquia é definida pelo volume que a empresa imprime de fato, para não pagar por página que não usa.\n\nSe o volume mudar, ajustamos a franquia, sem precisar trocar de contrato a cada variação de demanda."
+      }
+    ]
+  },
+  {
+    "slug": "computadores-para-eventos",
+    "nome": "Computadores para eventos",
+    "resumo": "Notebooks e desktops para feiras, congressos, treinamentos e provas, montados e recolhidos pela nossa equipe.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Estrutura de TI temporária",
+        "conteudo": "Evento precisa de muita máquina por poucos dias, e comprar para isso não faz o menor sentido.\n\nO aluguel entrega a quantidade exata pelo período do evento, da montagem ao recolhimento, e você só paga pelos dias de uso."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Onde costuma ser usado",
+        "conteudo": "Equipamos credenciamento de congresso, estande de feira, sala de treinamento, prova e processo seletivo, e ativação de marca.\n\n- Credenciamento: cadastro rápido na entrada\n- Treinamento: uma máquina por aluno\n- Estande: demonstração e captação de leads"
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Montagem no local",
+        "conteudo": "Nossa equipe leva, instala e testa todos os equipamentos antes da abertura do evento.\n\nDeixamos tudo configurado com o sistema e o programa que o evento vai usar, para começar sem improviso na hora."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Reposição imediata",
+        "conteudo": "Em evento não dá para esperar conserto, então levamos máquinas reserva para troca na hora.\n\nSe um equipamento falhar durante o evento, a substituição é imediata e ninguém da operação fica parado."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Planejamento e prazo",
+        "conteudo": "Quanto antes você fechar, melhor garantimos a quantidade e a configuração para a data.\n\nLevantamos o cronograma do evento e definimos horário de montagem e desmontagem junto com a produção."
+      }
+    ]
+  },
+  {
+    "slug": "aluguel-de-tablets",
+    "nome": "Aluguel de tablets",
+    "resumo": "Tablets para força de vendas, pesquisa de campo, totem, cardápio digital e ativação, configurados sob demanda.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "Mobilidade sem comprar",
+        "conteudo": "Tablet é prático para quem atende em pé, em campo ou em balcão, mas comprar lote para uso pontual é desperdício.\n\nO aluguel entrega os aparelhos pelo período da ação e recolhe depois, sem deixar equipamento encalhado no estoque."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Aplicações comuns",
+        "conteudo": "Tablets alugados atendem força de vendas, pesquisa de campo, totem de autoatendimento, cardápio digital e ativação em ponto de venda.\n\n- Vendas: catálogo e pedido na mão do vendedor\n- Pesquisa: coleta de dados em campo\n- Evento: check-in e captação de leads"
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Configuração e travamento",
+        "conteudo": "Entregamos os tablets já com o aplicativo da ação instalado e, quando precisa, em modo quiosque travado em uma só tela.\n\nIsso evita que o usuário saia do app, mexa em configuração ou use o aparelho para outra coisa."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Acessórios",
+        "conteudo": "O aluguel pode incluir capa de proteção, suporte de mesa, pedestal de piso e carregamento em rack para vários aparelhos.\n\nPara totem e estande, o suporte fixo deixa o tablet na altura certa e mais seguro."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Volume e período",
+        "conteudo": "Você aluga de poucas unidades a lotes grandes, por dia, semana ou contrato mensal.\n\nO valor por aparelho melhora no volume, e a entrega é feita já testada e pronta para usar."
+      }
+    ]
+  },
+  {
+    "slug": "aluguel-corporativo",
+    "nome": "Aluguel corporativo (DaaS)",
+    "resumo": "Parque de TI como serviço, com renovação programada, gestão de ativos e mensalidade previsível para a empresa.",
+    "topicos": [
+      {
+        "nivel": "h2",
+        "titulo": "O parque de TI como serviço",
+        "conteudo": "No modelo corporativo, a empresa não compra computador: contrata o uso do parque inteiro por uma mensalidade.\n\nÉ o conceito de equipamento como serviço, em que máquina, suporte e renovação vêm juntos em um só contrato."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Renovação programada",
+        "conteudo": "O contrato já prevê a troca dos equipamentos a cada ciclo, então o parque nunca fica obsoleto.\n\nA empresa deixa de ter máquina antiga arrastando a produtividade e de precisar revender equipamento usado."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Vantagem financeira",
+        "conteudo": "Comprar parque imobiliza capital e gera depreciação, enquanto o aluguel vira despesa operacional previsível.\n\nA mensalidade fixa facilita o planejamento do orçamento de TI e libera caixa para o que é o negócio da empresa."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Gestão de ativos",
+        "conteudo": "Mantemos o controle de qual equipamento está com quem, do número de série à configuração de cada máquina.\n\nIsso facilita auditoria, troca de colaborador e a logística de admissão e desligamento do time."
+      },
+      {
+        "nivel": "h2",
+        "titulo": "Contrato sob medida",
+        "conteudo": "O contrato é desenhado pela quantidade de postos, o perfil de uso e o prazo que a empresa precisa.\n\nDesenhamos o pacote do home office ao escritório completo, com suporte e reposição dentro do mesmo acordo."
+      }
+    ]
+  }
+]

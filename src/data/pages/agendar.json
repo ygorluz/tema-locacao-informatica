@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Peça seu orçamento — LocaTech SP",
+    "description": "Solicite orçamento de aluguel de notebooks, desktops, workstations ou qualquer equipamento da LocaTech SP em São Paulo. Resposta rápida e sem compromisso."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Peça seu orçamento",
+      "title": "Orçamento em três etapas simples.",
+      "lead": "Informe o equipamento, a quantidade e seus dados — a gente monta a proposta.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Orçamento", "href": "/agendar" } ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três etapas do orçamento à entrega.",
+      "steps": [
+        { "n": "01", "title": "Orçamento", "text": "Envie a quantidade, o uso e o prazo pelo formulário ou WhatsApp." },
+        { "n": "02", "title": "Configuração", "text": "Indicamos a máquina certa e preparamos os equipamentos." },
+        { "n": "03", "title": "Entrega", "text": "Entregamos tudo configurado e pronto para usar." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Solicite agora",
+      "title": "Preencha e receba sua proposta.",
+      "services": ["Aluguel de notebooks", "Aluguel de desktops", "Aluguel de workstations", "Aluguel de monitores", "Aluguel de servidores", "Aluguel de impressoras", "Computadores para eventos", "Aluguel de tablets", "Aluguel corporativo (DaaS)"]
+    }}
+  ]
+}
